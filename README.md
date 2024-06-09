@@ -29,3 +29,15 @@ Feel free to unleash your creativity:
 * **Sound Effects**: Enhance the experience with delightful boops, bings, or even kazoo sounds when you bop a face.
 * **Themes**: Change the background gradient, fonts, or even introduce a day-night cycle. The sky’s the limit!
 Remember, FaceBomp is all about fun, laughter, and friendly competition. So gather your friends, challenge each other’s high scores, and let the face-bopping extravaganza begin! 🚀🍌
+
+## Contributing
+Contributions to this repository are welcome! If you have a code sample or topic you'd like to contribute, please follow these steps:
+
+- Fork the repository
+- Create a new branch (git checkout -b feature/new-topic)
+- Make your changes
+- Commit your changes (git commit -am 'Add new topic')
+- Push to the branch (git push origin feature/new-topic)
+- Create a new Pull Request
+
+Please ensure your code adheres to the repository's coding standards and includes appropriate documentation/comments.
