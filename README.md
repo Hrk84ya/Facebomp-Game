@@ -2,6 +2,8 @@
 
 Welcome to **FaceBomp**, a delightful and whimsical game that combines quick reflexes, silly faces, and a dash of competitive spirit. In this engaging web-based experience, you’ll find yourself bopping faces faster than a caffeinated monkey on a trampoline! 🐒💥
 
+#### Explore the live version of Facebomp here: [Facebomp](https://hrk84ya.github.io/Facebomp-Game/)
+
 ## The Concept
 The premise is simple: Faces will randomly pop up from their hiding spots, and your mission is to **bop** them as swiftly as possible. Each successful bop earns you points, and the clock is ticking! Can you achieve the highest score before time runs out? Let’s find out! 😄
 
